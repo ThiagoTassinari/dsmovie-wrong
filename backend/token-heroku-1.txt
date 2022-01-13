@@ -1,0 +1,10 @@
+postgres://
+kvtmjwllwoztxd
+:
+562880a56efce13664aee6d8c5b63f40ed03e3f494b71faae2b4094448d36591
+@
+ec2-18-234-17-166.compute-1.amazonaws.com
+:
+5432
+/
+d8va3mir4p6tpu
